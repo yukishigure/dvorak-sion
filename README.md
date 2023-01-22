@@ -17,3 +17,11 @@ Dvorak配列として動作します。本家Dvorak配列と比較して、以�
 
 ## `L Shift`以外の修飾キー押下時  
 <img src="docs/images/keyboard-qwerty.png">  
+JIS配列として動作します。`Ctrl`や`Alt`, `Win`キーなどは勿論、`R Shift`押下時もQWERTYとして動作します。  
+
+# ソフトウェアを用いた配列変更
+## Karabiner-Elements
+Macでは、Karabiner-Elementsを使用して配列変更を行うことができます。  
+Karabiner-Elementsインストール後、 以下のディレクトリに`dvorak-sion.json`を配置してください。  
+ > `~/.config/karabiner/karabiner/assets/complex_modifications/dvorak-sion.json`  
+その後、Karabiner-Elementsの`Complex Medifications`メニューから`Add rule`を選択し、`Dvorak SiON`をEnableすることで使用できます。
