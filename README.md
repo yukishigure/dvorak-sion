@@ -22,7 +22,7 @@ JIS配列として動作します。`Ctrl`や`Alt`, `Win`キーなどは勿論�
 # ソフトウェアを用いた配列変更
 ## Karabiner-Elements
 Macでは、Karabiner-Elementsを使用して配列変更を行うことができます。  
-Karabiner-Elementsインストール後、 以下のディレクトリに`dvorak-sion.json`を配置してください。  
+Karabiner-Elementsインストール後、 以下のディレクトリに<a href="karabiner-elements/dvorak-sion.json">`dvorak-sion.json`</a>を配置してください。  
  > `~/.config/karabiner/assets/complex_modifications/dvorak-sion.json`  
 
 その後、Karabiner-Elementsの`Complex Medifications`メニューから`Add rule`を選択し、`Dvorak SiON`をEnableすることで使用できます。
